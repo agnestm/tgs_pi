@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 public class BilanganPrima {
     public static void main(String args[]) {
-        System.out.println("Program menampilkan bilangan prima");
+        System.out.println("Program ini menampilkan bilangan prima");
         
         Scanner a = new Scanner(System.in);
         int n, i, j;
